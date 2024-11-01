@@ -1,6 +1,3 @@
-Here’s a concise description for your GitHub repository:
-
----
 
 # Job Portal
 
